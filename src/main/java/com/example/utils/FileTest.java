@@ -20,6 +20,11 @@ import java.util.stream.Stream;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.LineIterator;
 
+/**
+ * 大文件读取方法性能比较
+ * @author ben
+ * 2019年9月1日
+ */
 public class FileTest {
 
     private static int rows = 100000000;
