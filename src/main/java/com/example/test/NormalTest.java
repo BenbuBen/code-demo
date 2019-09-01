@@ -11,6 +11,11 @@ import org.joda.time.DateTime;
 
 import com.example.utils.DateUtils;
 
+/**
+ * 日期test
+ * @author ben
+ * 2019年9月1日
+ */
 public class NormalTest {
     
     private static SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");// 需要转化成的时间格式
